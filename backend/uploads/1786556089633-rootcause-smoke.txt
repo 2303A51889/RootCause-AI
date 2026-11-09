@@ -1,0 +1,2 @@
+console.log("smoke")
+throw new Error("smoke failure")
